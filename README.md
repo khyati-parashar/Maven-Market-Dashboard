@@ -28,7 +28,7 @@ A **_"Matrix visual"_** has been inserted to show Total Transactions, Total Prof
 
 A **_"KPI Card"_** has been added to show **Total Transactions, Total Profit, Total Returns** with Start of Month as the trend axis and Last Month Transactions, Last Month Profits,  Last Month Returns as the target goal.
 
-A **_"Map visual"_** has been added to show Total Transactions by store city alog with a **_"Slicer"_** for store country.
+A **_"Map visual"_** has been added to show Total Transactions by store city along with a **_"Slicer"_** for store country.
 
 Next to the map, A **_"Treemap"_** visual to break down Total Transactions by store country has been added by pulling in store_state and store_city beneath store_country in the "Group" field to enable **drill-up and drill-down** functionality.
 
